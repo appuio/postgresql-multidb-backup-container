@@ -1,3 +1,8 @@
+# Deprecated
+
+!!! Use https://github.com/appuio/postgres-backup-cronjob instead!!!
+
+
 # postgresql-multidb-backup-container
 Provide a PostgreSQL database backup container that does backups using a cron job. The backup is done by the `pg_dump` tool.
 
